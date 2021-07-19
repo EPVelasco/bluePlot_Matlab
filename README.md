@@ -12,7 +12,8 @@ This package plots a 3D model of the UGV  ([Blue](https://github.com/AUROVA-LAB/
 - **SL_BLUE** : BLUE model in stl format.
 - **bluePlot.m** : Function to plot model.
 - **blueSTL.mat**: Strcuts (faces and vertices of STL files).
-- **save_stl.m**: Read STL files and convert them to structures
+- **save_stl.m**: Read STL files and convert them to structures.
+- [**stlRead.m**](https://es.mathworks.com/matlabcentral/fileexchange/22409-stl-file-reader) : Required function to read STL files.
 - **test.m**: Model plot test.
 
 ## Test
