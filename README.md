@@ -26,4 +26,4 @@ The following figure represents the results of the test.m code.
 ## Test Control Simulation
 The following video represents the results of the control_simulation.m code with the kinematic model forwards and backwards.
 
-https://user-images.githubusercontent.com/35384396/126191206-75b5a133-463b-409c-863c-4b338dc28ae0.mp4
+https://user-images.githubusercontent.com/35384396/126191936-b079298f-cf7c-44bc-92bd-4b975d47da5f.mp4
