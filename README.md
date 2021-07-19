@@ -22,3 +22,8 @@ The following figure represents the results of the test.m code.
 <p float="left">
   <img src="/test_plot.png" width="480"  />
 </p>
+
+## Test Control Simulation
+The following video represents the results of the control_simulation.m code.
+    
+https://user-images.githubusercontent.com/35384396/126187992-de38ebde-168a-4f6a-a560-f65db39dd938.mp4
