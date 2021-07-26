@@ -2,7 +2,7 @@
 This package plots a 3D model of the UGV  ([Blue](https://github.com/AUROVA-LAB/robot_blue)) in MATLAB for controller simulation.
 
 <p align="center">
-  <img src="/blue.png" width="325"  />
+  <img src="/blue_matlab.png" width="325"  />
   <a href="https://github.com/AUROVA-LAB/robot_blue">
     <img src="/blue.png" width="425" /> 
   <a>
