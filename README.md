@@ -27,3 +27,9 @@ The following figure represents the results of the test.m code.
 The following video represents the results of the control_simulation.m code with the kinematic model forwards and backwards.
 
 https://user-images.githubusercontent.com/35384396/126191936-b079298f-cf7c-44bc-92bd-4b975d47da5f.mp4
+
+## ✨ License
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0) and is intended for non-commercial academic use. If you are interested in using the dataset for commercial purposes please contact us via [email](mailto:edison.velasco@ua.es).
+
+
